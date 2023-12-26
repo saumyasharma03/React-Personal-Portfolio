@@ -6,7 +6,8 @@ https://github.com/saumyasharma03/React-Personal-Portfolio/assets/143929552/4b44
 
 Email has been sent to the email id I had entered in my server side:
 [Note: for security puposes I have removed my original email and application password from the code]
-![image](https://github.com/saumyasharma03/React-Personal-Portfolio/assets/143929552/d83b0950-ed08-44f8-b84e-ffa4cebd9c63)
+![image](https://github.com/saumyasharma03/React-Personal-Portfolio/assets/143929552/c38a17dd-7e98-46a0-b891-be2a00601f63)
+
 
 
 # Getting Started with Create React App
