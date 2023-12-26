@@ -1,8 +1,7 @@
 Fully Functional responsive portfolio based on React.JS, React-Bootstrap and with use of node mail server that includes packages: nodemailer, express and cors.
 
 Here's the preview of my portfolio:
-
-https://github.com/saumyasharma03/React-Personal-Portfolio/assets/143929552/9d47a58f-9867-4c55-ba6b-66afac813ded
+https://github.com/saumyasharma03/React-Personal-Portfolio/assets/143929552/4b449e23-11a6-40b5-8491-0ee03b1a30fb
 
 Email has been sent to the email id I had entered in my server side:
 [Note: for security puposes I have removed my original email and application password from the code]
