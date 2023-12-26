@@ -9,6 +9,15 @@ Email has been sent to the email id I had entered in my server side:
 ![image](https://github.com/saumyasharma03/React-Personal-Portfolio/assets/143929552/c38a17dd-7e98-46a0-b891-be2a00601f63)
 
 
+Snippets to read the content:
+![image](https://github.com/saumyasharma03/React-Personal-Portfolio/assets/143929552/17fd0952-9756-44a6-b814-26d0fb58e257)
+![image](https://github.com/saumyasharma03/React-Personal-Portfolio/assets/143929552/d864763f-0f48-482b-b12e-31a3499beef2)
+![image](https://github.com/saumyasharma03/React-Personal-Portfolio/assets/143929552/1c394558-eb6c-4634-93ca-1e38c53de5bf)
+![image](https://github.com/saumyasharma03/React-Personal-Portfolio/assets/143929552/2db89d96-e13d-423c-af23-88c511f0fdad)
+![image](https://github.com/saumyasharma03/React-Personal-Portfolio/assets/143929552/4ca108da-7845-4eb9-b345-419eab54ada2)
+
+
+
 
 # Getting Started with Create React App
 
